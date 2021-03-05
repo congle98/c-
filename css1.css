@@ -1,0 +1,15 @@
+/*table{*/
+/*    border-collapse: collapse;*/
+/*}*/
+/*#tr1{*/
+/*    background-color: goldenrod;*/
+/*}*/
+/*td:nth-child(1){*/
+/*    background-color: goldenrod;*/
+/*}*/
+/*tr:nth-child(odd)td:nth-child(even){*/
+/*    background: black;*/
+/*}*/
+/*tr:nth-child(even)td:nth-child(odd){*/
+/*    background: black;*/
+/*}*/
